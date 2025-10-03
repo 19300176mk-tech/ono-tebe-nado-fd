@@ -101,7 +101,7 @@
     font-weight: 700;
     font-size: 100px;
     line-height: 130px;
-    font-family: "raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     letter-spacing: 30px;
 }
 
@@ -139,10 +139,10 @@
     white-space: nowrap;
 }
 
-.bet-button{
+.bet-button {
     width: 256px;
     height: 51px;
-    font-family: "raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 22px;
     line-height: 28px;
