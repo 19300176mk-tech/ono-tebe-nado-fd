@@ -59,7 +59,9 @@
 .header-address {
     justify-self: end;
     font-family: "Raleway", sans-serif;
+    font-weight: 400;
     font-size: 18px;
+    font-style: normal;
     max-width: 240px;
     padding-right: 34px;
 }
@@ -98,11 +100,12 @@
 }
 
 .cover-title {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 100px;
     line-height: 130px;
-    font-family: "Raleway", sans-serif;
     letter-spacing: 30px;
+    text-transform: uppercase;
 }
 
 .aligned-text {
@@ -131,8 +134,10 @@
 }
 
 .cover-description-text {
-    word-spacing: 20px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
     font-size: 22px;
+    word-spacing: 20px;
     letter-spacing: normal;
     line-height: 28px;
     text-transform: uppercase;
@@ -158,10 +163,12 @@
 }
 
 .lots-heading {
+    font-family: "Raleway", sans-serif;
     font-size: 40px;
     font-weight: 700;
     margin-bottom: 27px;
     margin-left: 40px;
+    text-transform: uppercase;
 }
 
 .lots-card-list {
@@ -206,16 +213,19 @@
 }
 
 .card-title {
-    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
     font-size: 22px;
     font-weight: 700;
+    text-transform: uppercase;
     margin-bottom: auto;
 }
 
 .card-text {
+    font-family: "Raleway", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 1.2;
+    letter-spacing: 0;
 }
 
 .card-type-film {
@@ -260,6 +270,7 @@
 }
 
 .about-title {
+    font-family: "Raleway", sans-serif;
     font-size: 40px;
     font-weight: 700;
     text-transform: uppercase;
@@ -269,6 +280,8 @@
 .about-text {
     display: flex;
     flex-direction: column;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
     font-size: 20px;
     line-height: 1.2;
     gap: 25px;
@@ -282,6 +295,8 @@
 }
 
 .footer-address {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
     font-size: 18px;
     line-height: 20px;
     max-width: 240px;
@@ -297,11 +312,13 @@
     text-decoration: underline;
     text-transform: lowercase;
     white-space: nowrap;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
     font-size: 18px;
     line-height: 20px;
 }
 
-.footer-menu-link-activ {
+.footer-menu-link-active {
     text-decoration: none;
 }
 
@@ -323,5 +340,6 @@
     margin-top: 24px;
     text-align: center;
     color: #777;
+    font-family: "Raleway", sans-serif;
     font-size: 14px;
 }
