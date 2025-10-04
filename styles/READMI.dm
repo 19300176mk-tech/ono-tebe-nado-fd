@@ -1,3 +1,0 @@
-https://github.com/19300176mk-tech/ono-tebe-nado-fd
-
-work setting
