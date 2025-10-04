@@ -206,12 +206,9 @@
     color: #fff;
 }
 
-.card-title, .card-text {
+.card-title {
     position: relative;
     z-index: 1;
-}
-
-.card-title {
     font-family: "Raleway", sans-serif;
     font-size: 22px;
     font-weight: 700;
@@ -220,6 +217,8 @@
 }
 
 .card-text {
+    position: relative;
+    z-index: 1;
     font-family: "Raleway", sans-serif;
     font-size: 20px;
     font-weight: 400;
